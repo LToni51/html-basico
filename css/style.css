@@ -1,0 +1,49 @@
+.preço{
+    font-weight: bold;
+    background-color: red;
+}
+
+
+
+.saporra{
+width: 200px;
+height: 300px;
+}
+
+.ex3{
+    margin: 30px;
+    padding: 20px;
+
+}
+
+.p1{
+    background-color: #F5F5F5;
+    margin: 30px;
+    padding: 20px;
+
+}
+.p2{
+    background-color: #F0CCE2;
+    margin: 30px;
+    padding: 20px;
+
+}
+
+.gas th {
+    border: 1px;
+    background-color: #BB86FC
+}
+
+.gas td {
+    background-color: gray;
+    border: 1px;
+    color: beige;
+}
+
+.tubo thead {
+    background-color: aqua;
+
+}
+.tubo tbody {
+    background-color: gray;
+}
